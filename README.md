@@ -67,7 +67,7 @@ If a default model leaves the catalog, the tool uses the first featured model of
 ## How results appear
 
 - **Images** appear in the assistant message and are saved in Open WebUI, like images from Open WebUI's own image generation.
-- **Videos and speech** play in the chat. The player streams from a download link that stays available for 7 days. With **Keep Copies** on, a copy is also attached to the message as a file, so it stays available after the link expires.
+- **Videos and speech** play in the chat. The player streams from the download link the API returns and shows the date that link expires. With **Keep Copies** on, a copy is also attached to the message as a file, so it stays available after the link expires.
 - **Progress.** While a video renders, the status line above the reply shows the model and the elapsed time.
 
 ## Credits and prices
