@@ -3,9 +3,9 @@ title: EmpirioLabs AI Media
 author: EmpirioLabs AI
 author_url: https://empiriolabs.ai
 git_url: https://github.com/EmpirioLabs-AI/openwebui-empiriolabs
-description: Create videos, images and speech in the chat with models from the EmpirioLabs AI catalog. Text-to-video, image-to-video from a link, image generation and text-to-speech.
+description: Create videos, images and speech in Open WebUI chats with models from the EmpirioLabs AI catalog.
 required_open_webui_version: 0.12.0
-version: 1.0.0
+version: 1.0.1
 license: MIT
 """
 
